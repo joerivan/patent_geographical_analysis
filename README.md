@@ -6,7 +6,6 @@ The data has been collected in a interactive [website](https://patent-geographic
 
 ## Files
 - `List of countries.xlsx` an excel file with the two letter code (ISO 3166) abreviations for a selection of countries. These countries were the ones which are the standard selected countries for the program Datawrapper, this program was used for visualisation.
-- `final_database.xlsx` an excel file with the exported patent data.
 - `notebook_patents.ipynb` the jupyter notebook which was used for the data cleaning and analysis.
 - `patent_counts.csv` a output file created by the notebook.
 - `patent_counts_after_2011.csv` a output file created by the notebook.
